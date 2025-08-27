@@ -1,0 +1,5 @@
+C:\Users\VIAMATICA\Desktop\pruebaNet\src\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\VIAMATICA\Desktop\pruebaNet\src\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIAMATICA\Desktop\pruebaNet\src\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\VIAMATICA\Desktop\pruebaNet\src\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Users\VIAMATICA\Desktop\pruebaNet\src\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
